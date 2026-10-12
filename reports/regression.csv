@@ -1,0 +1,6 @@
+predictor,label,sd,effect_pp,ci_low,ci_high
+pct_65plus,Aged 65 and over (%),5.3311,0.2073,0.1796,0.2350
+unemployment_rate,Unemployment rate (%),3.5866,0.1898,0.1419,0.2377
+pct_low_education,Primary education or less (%),5.1137,0.2829,0.2462,0.3196
+pct_social_housing,Households in social housing (%),9.7041,0.2662,0.2232,0.3092
+pct_private_rent,Households renting privately (%),13.0005,0.1849,0.1504,0.2194

@@ -1,0 +1,4 @@
+cluster,name,eds,population,bad_health,pct_65plus,unemployment_rate,pct_low_education,pct_degree,pct_social_housing,pct_private_rent,profile
+2,Lower education & High unemployment,515,1260135.00,2.79,15.45,13.14,15.69,24.35,21.78,20.42,0
+1,Older population,2614,2480793.00,1.63,17.36,6.73,10.43,33.67,5.80,11.06,1
+0,Highly educated & Private renters,291,1408211.00,1.45,10.72,7.02,5.66,51.38,8.01,30.09,2

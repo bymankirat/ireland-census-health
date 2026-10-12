@@ -1,0 +1,16 @@
+Quality control log - 2026-10-11 09:52
+QC PASSED: 11 passed, 2 warnings, 0 failures
+
+[PASS] 3,420 Electoral Divisions in every table: health: 3,420, age: 3,420, education: 3,420, economic: 3,420, tenure: 3,420
+[PASS] Same EDs in all five tables: 0 EDs missing from at least one table
+[PASS] health: categories add up to total: 0.00% of EDs differ by more than 0.5%
+[PASS] age: categories add up to total: 0.00% of EDs differ by more than 0.5%
+[PASS] education: categories add up to total: 0.00% of EDs differ by more than 0.5%
+[PASS] economic: categories add up to total: 0.00% of EDs differ by more than 0.5%
+[PASS] tenure: categories add up to total: 0.00% of EDs differ by more than 0.5%
+[PASS] No missing indicator values: 0 missing out of 23,940
+[PASS] All percentages between 0 and 100: 0 out of range
+[PASS] Health table population matches age table: largest difference 0.00%
+[WARN] Health question answered: 6.7% did not state their health nationally; 153 EDs above 15%
+[WARN] EDs with population under 200: 226 EDs (kept, but weighted by population in all models)
+[PASS] EDs matched to map boundaries: 100.0% matched
